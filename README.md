@@ -34,11 +34,6 @@
 <hr>
 
 ## <b> Let's Connect..!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
-<br>
-<div align='left'>
-<ul>
-<li>
 <a href="https://www.linkedin.com/in/ashima-khanna98/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin: ashima-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
-</li>
