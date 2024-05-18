@@ -1,9 +1,9 @@
 ## Hi, I'm Ashi 👋
 
 ### 👨‍💻 Bio
+ * Currently working as a research assistant at the Grimm Lab (https://github.com/grimmlab)
  * MS student at Technische Universität München (2022-2024)
- * Current working as a master's thesis student at the Grimm Lab (https://github.com/grimmlab)
- * B.S. in Bioengineering, MIT Art Design and Technology University (2016-2020)
+ * B.S. in Bioengineering at MIT Art Design and Technology University (2016-2020)
  * [Curriculum Vitae](https://drive.google.com/file/d/1cCOQ8pA_Jqs-V4OK4cKdwcb3prn6d56Y/view?usp=sharing)
 
 <hr>
